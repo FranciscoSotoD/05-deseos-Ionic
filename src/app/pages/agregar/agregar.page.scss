@@ -1,0 +1,11 @@
+.escribeAqui {
+    color: #84C318;
+    font-size: 20px;
+    border-bottom: 1px solid #1A8FE3;
+
+    &:focus {
+        border-bottom: none;
+        outline: none;
+    }
+}
+
